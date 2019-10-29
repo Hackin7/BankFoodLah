@@ -1,3 +1,5 @@
-# flutter_barcode_scanner_example
+# BankFoodLah
 
-Demonstrates how to use the flutter_barcode_scanner plugin.
+The actual code for the app is in "BankFoodLah App".
+
+The code in the root folder is from [flutter_barcode_scanner](https://github.com/AmolGangadhare/flutter_barcode_scanner)
